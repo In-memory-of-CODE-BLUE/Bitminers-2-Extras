@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+"$basetexture" "bitminers2/bm2_solar_top_color"
+
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[0.8 0.8 1]"
+    "$envmapfresnel" "0"
+     $envmapcontrast "0.1"
+     $envmapsaturation "0.9"	
+
+    "$bumpMap"                "bitminers2/bm2_solar_top_normal"
+    "$normalmapalphaenvmapmask" "1"
+
+    "$surfaceprop" "Metal"
+    "$model" 1
+
+
+
+}
+
+
